@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerserify",
+        "uuid": 6741200,
+        "checksum": "v34h9b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
